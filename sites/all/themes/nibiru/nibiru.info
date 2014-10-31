@@ -1,0 +1,8 @@
+name = Nibiru
+description = Drupal integration of Nibiru theme
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = layout.css
+
+
